@@ -22,14 +22,6 @@ if($srolename != 'PPT Executive')
 require_once($DOCUMENT_ROOT."/ois/$sModuleName/classes/AllClasses.php");
 $objValid = new clsvalid();
 
-if($REQUEST_METHOD=="GET")
-{
-    
-}
-if($REQUEST_METHOD=="POST")
-{
-    
-}
 ?>
 <html>
     <head>
